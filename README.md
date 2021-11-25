@@ -1,16 +1,13 @@
-# azumo_app
+# GifCat
 
-A new Flutter project.
+Una aplicacion usando cataas.com para mostrar gifs de gatitos :3
 
-## Getting Started
+Para la compilacion del proyecto en cualquier maquina no existe alguna configuracion adicional, mas que clonar el repositorio.
 
-This project is a starting point for a Flutter application.
+Vista previa del proyecto
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/40903405/143382275-553c63d1-f40b-45b7-9efb-9fac65e232a4.png" width="25%" height="25%"> |
+<img src="https://user-images.githubusercontent.com/40903405/143382286-fcc2056c-f895-42db-a651-10ff9bd9c23c.png" width="25%" height="25%"> |
+<img src="https://user-images.githubusercontent.com/40903405/143382291-bf517042-a5ea-40f6-a223-bbfb370b5ec7.png" width="25%" height="25%"> |
+<img src="https://user-images.githubusercontent.com/40903405/143382298-8238fc73-e005-4e29-bf21-b6f46b3dad21.png" width="25%" height="25%"> 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
